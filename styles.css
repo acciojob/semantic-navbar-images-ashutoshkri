@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 16px; }
+nav ul { list-style: none; display: flex; gap: 16px; padding: 12px 0; margin: 0; }
+nav a { text-decoration: none; font-weight: 600; color: #0b3d91; }
+nav a:hover { text-decoration: underline; }
+h2 { margin: 16px 0; }
+img { display: inline-block; margin: 8px; border-radius: 8px; }
